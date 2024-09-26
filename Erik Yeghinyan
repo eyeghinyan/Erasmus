@@ -1,0 +1,11 @@
+my-erasmus-life/
+├── index.html
+├── about.html
+├── experiences.html
+├── resources.html
+├── contact.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+└── images/
