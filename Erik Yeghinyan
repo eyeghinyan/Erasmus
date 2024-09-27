@@ -1,11 +1,24 @@
-my-erasmus-life/
-├── index.html
-├── about.html
-├── experiences.html
-├── resources.html
-├── contact.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js
-└── images/
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Personal Website</title>
+  </head>
+  <body>
+    <header>
+      <h2> My Erasmus Experience </h2>
+      <nav>
+      </nav>
+    </header>
+    <main>
+      <h1>Hello World!</h1>
+      <p>
+        Paragraph text goes here
+      </p>
+    </main>
+    <footer>
+      <p>
+        Footer text
+      </p>
+    </footer>
+  </body>
+</html>
